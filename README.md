@@ -7,16 +7,16 @@ Overview
 Key Features
 Technologies Used
 
-Overview
+Overview :-
 The Medical Data History Project is a database system designed to efficiently manage and track comprehensive medical data for patients. The project covers patient information, medical records, appointments, billing, and more.
 
-Key Features
+Key Features :-
 Patient Information Management
 Medical Records and History
 Appointment Scheduling
 Billing and Insurance Tracking
 Security and Access Control
 Reports and Analytics
-Technologies Used
+Technologies Used :-
 SQL (Structured Query Language)
-[List any additional technologies or frameworks used, if applicable]
+MICROSOFT EXCEL

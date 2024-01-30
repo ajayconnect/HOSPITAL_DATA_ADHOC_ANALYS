@@ -18,5 +18,5 @@ Billing and Insurance Tracking
 Security and Access Control
 Reports and Analytics
 Technologies Used :-
-SQL (Structured Query Language)
-MICROSOFT EXCEL
+SQL (Structured Query Language) ,
+Microsoft EXCEL

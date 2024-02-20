@@ -1,6 +1,6 @@
-# HOSPITAL_DATA_ADHOC_ANALYSIS PROJECT
+# MEDICAL DATA HISTORY SQL AD-HOC ANALYSIS PROJECT
 
-Welcome to the HOSPITAL_DATA_ADHOC_ANALYSIS PROJECT ! This project aims to provide a comprehensive and organized system for managing and tracking medical data for patients.
+Welcome to the MEDICAL DATA HISTORY SQL AD-HOC ANALYSIS PROJECT ! This project aims to provide a comprehensive and organized system for managing and tracking medical data for patients.
 
 Table of Contents :-
 Overview
